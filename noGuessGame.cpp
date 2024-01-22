@@ -26,5 +26,6 @@ int main() {
             std::cout << "Wrong!, the number is greater than " << input << std::endl;
         }
     }   
+    
     return 0;
 }
